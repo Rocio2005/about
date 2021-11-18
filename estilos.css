@@ -1,0 +1,39 @@
+body{
+    background: linear-gradient(600deg,rgba(145, 190, 248, 0.644),#640218fd);
+
+    
+}
+.bordes{
+    border: solid 5px rgb(26, 27, 27);
+    border-radius: 20px;
+    border-style:double;
+}
+.bordes-img{
+    border-radius: 20px;
+}
+.centrar{
+    text-align: center;
+}
+.boton-color{
+    background-color: rgba(221, 11, 29, 0.952);
+}
+
+.img-cambia{
+    background: url("myAvatar.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color:#e6f0f0;
+    height: 30em;
+    border-radius: 20px;
+    
+
+    
+}
+.img-cambia:hover{
+    background: url("foto2.jpeg");
+    background-size:100%;
+    background-repeat: no-repeat;
+    height: 30em;
+    border-radius: 20px;
+    
+}
