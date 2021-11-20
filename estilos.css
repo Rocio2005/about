@@ -31,6 +31,9 @@
 
 .caja{
     height: 35em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .img-cambia{
