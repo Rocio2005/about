@@ -43,6 +43,7 @@
     background-color:#e6f0f0;
     height: 30em;
     border-radius: 20px;
+    background-position: top 60px left 8px; /*con position posiciono la imagen:ubicacion y pixeles con respecto a la caja, right,left top o bottom*/
     
 }
 .img-cambia:hover{
