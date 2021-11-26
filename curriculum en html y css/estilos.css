@@ -1,0 +1,99 @@
+hr{
+    color: #ee2c97;
+    height: 0.2em;
+    
+}
+body{
+    margin-left: 10%;
+    margin-right: 10%;
+    background: linear-gradient(200deg,#edf6f9,#ffddd2);
+}
+/*Header*/
+h1{
+    text-align: left;
+    color: #83c5be;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+
+/*Seccion datos personales*/
+h3 {
+    color: #e29578;
+    text-decoration: underline;
+    text-align: left;
+    padding-left: 10%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.dp1{
+    margin-left: 10%;
+    display: inline;
+    width: 70%;
+    text-align: center;
+}
+.fotis{
+    margin-right: 10%;
+    height: 200px;
+    width:200px;
+    border-radius: 50px;
+    display: inline;
+    
+}
+.data-per{
+    
+    height: 10%;
+    display: flex;
+}
+
+ul{
+    text-align: left;
+}
+
+
+/*Seccion cursos*/
+.izquierda{
+    text-align: center;
+    width: 50%;
+    display: block;
+    
+}
+.derecha{
+    text-align: center;
+    width: 50%;
+    display: block;
+}
+
+.cursos{
+    display: flex;
+}
+
+.cursiva{
+    font-style: oblique;
+}
+
+/*Seccion otra informacion*/
+
+.otra-inform{
+    display: flex;
+}
+
+/*Footer*/
+.centrado{
+    text-align: center;
+}
+
+.espacio{
+    padding-left: 5%;
+    padding-right: 5%;
+    text-decoration:underline;
+    border-radius: 2px;
+    font-size:1.2em;
+}
+
+/*algunos titulos h4*/
+h4{
+    color: #006d77;
+}
